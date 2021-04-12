@@ -1,0 +1,13 @@
+{
+  "appId": "com.sira",
+  "appName": "calendar",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
+  "webDir": "dist",
+  "plugins": {
+    "SplashScreen": {
+      "launchShowDuration": 0
+    }
+  },
+  "cordova": {}
+}
